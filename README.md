@@ -5,4 +5,5 @@ REST mit Entity
 Abgaben:
 	Vehicle
 	Vehicle-st
+	Vehicle-Jdbc
 ```
